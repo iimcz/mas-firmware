@@ -16,6 +16,7 @@ popisy vznikajícími v průběhu katalogizace.
 ## Odkazy na zdrojvé kódy a další informace související s MAS
  - [Dokumentace MAS](https://raw.githubusercontent.com/iimcz/mas-firmware/master/MAS_dokumentace.pdf)
  - [Dokumentace zdrojových kódů](https://raw.githubusercontent.com/iimcz/mas-firmware/master/MAS_refdoc.pdf)
+ - [Uživatelský manuál](https://raw.githubusercontent.com/iimcz/mas-firmware/master/MAS_uzivatelska_prirucka.pdf)
  - [Protokol o testování MAS](https://raw.githubusercontent.com/iimcz/mas-firmware/master/MAS_protokol_test.pdf)
  - [Zdrojové soubory modulu ASEC](https://github.com/iimcz/mas-asec/)
  - [Zdrojové soubory modulu uživatelského rozhraní MAS GUI](https://github.com/iimcz/mas-ui/)
