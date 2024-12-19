@@ -21,5 +21,6 @@ popisy vznikajícími v průběhu katalogizace.
  - [Zdrojové soubory modulu ASEC](https://github.com/iimcz/mas-asec/)
  - [Zdrojové soubory modulu uživatelského rozhraní MAS GUI](https://github.com/iimcz/mas-ui/)
 
+## Licence
 
-       
+Licence projektu je uvedená zde: [Licence](https://raw.githubusercontent.com/iimcz/mas-firmware/master/LICENSE)
